@@ -35,9 +35,7 @@ Windows:
 git clone https://github.com/geeky-prashant/10-mini-html-css-project.git
 ```
 
-### Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/geekyprashant).
 
 ### License
 
